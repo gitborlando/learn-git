@@ -2,8 +2,8 @@ interface app {
     value: string
 }
 
-const app2: app = {
-    value: 'app2'
+const app3: app = {
+    value: 'app3'
 }
 
-console.log(app2)
+console.log(app3)
